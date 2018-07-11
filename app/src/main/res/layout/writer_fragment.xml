@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="550dp"
+        android:layout_height="220dp"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:layout_gravity="center"
+        android:src="@drawable/be_a_writer"
+        android:contentDescription="writer"/>
+
+    <TextView
+        android:textSize="14sp"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/writer1"/>
+
+    <TextView
+        android:textSize="14sp"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/writer2"/>
+
+    <TextView
+        android:textSize="14sp"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/writer3"/>
+
+    <TextView
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/writer4"/>
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="@dimen/activity_vertical_margin"
+        android:text="@string/be_a_writer"
+        android:onClick="beAWriter"/>
+</LinearLayout>
+</ScrollView>

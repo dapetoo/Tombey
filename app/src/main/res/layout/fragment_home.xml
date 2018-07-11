@@ -1,0 +1,42 @@
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="550dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/tombey"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
+            android:src="@drawable/beautiful" />
+
+        <TextView
+            android:textSize="14sp"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about1"/>
+
+        <TextView
+            android:textSize="14sp"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about2"/>
+
+        <TextView
+            android:textSize="14sp"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about3"/>
+
+    </LinearLayout>
+</ScrollView>
+

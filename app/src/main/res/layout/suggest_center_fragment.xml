@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="com.dapetoo.tombey.fragments.SuggestCenterFragment">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:layout_gravity="center"
+        android:src="@drawable/suggest_center"
+        android:contentDescription="@string/tombey_logo"/>
+
+    <TextView
+        android:textSize="14sp"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/have_you_been_to_a_center_or_do_you_know_a_center_that_is_currently_not_listed_please_kindly_fill_the_form_to_tell_us_more_about_the_center"/>
+
+    <!-- Name Label -->
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText android:id="@+id/userNameLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColorHint="@color/colorGreen"
+            android:hint="@string/your_name" />
+    </android.support.design.widget.TextInputLayout>
+
+    <!-- Email Address Label -->
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/input_secondName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email_address"
+            android:inputType="textPersonName"
+            android:textColorHint="@color/colorGreen" />
+    </android.support.design.widget.TextInputLayout>
+
+    <!-- Phone number -->
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText android:id="@+id/input_mobile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:textColorHint="@color/colorGreen"
+            android:hint="@string/mobile_number" />
+    </android.support.design.widget.TextInputLayout>
+
+    <!-- Message Label Label -->
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:lines="7">
+        <EditText android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:lines="7"
+            android:textColorHint="@color/colorGreen"
+            android:inputType="textMultiLine"
+            android:hint="@string/tell_us_more_about_the_center" />
+    </android.support.design.widget.TextInputLayout>
+
+    <!-- Suggest a center Button -->
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/suggestCenter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorGreen"
+        android:text="@string/suggest_a_center"
+        android:textSize="16sp"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

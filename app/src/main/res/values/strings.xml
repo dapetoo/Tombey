@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Tombey</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="about1">The aim of <b>TOMBEY</b> is to make it easier to find <i><b>sexual and reproductive
+        health information and services</b></i> for young people in South-West Nigeria.
+        One of our missions is to increase the awareness and agency of young people concerning their
+        sexual and reproductive health and facilitate the increase access to and use of sexual
+        and reproductive health resources and services. </string>
+    <string name="about2">
+            <b>TOMBEY</b> pulls together information and provides a many ways for you to ask questions and get
+        real answers from our in house and volunteer trained counsellors and teen guides. From
+        speaking directly to a teen volunteer to chatting in our forums, young people have the opportunity
+            to share their thoughts freely. </string>
+    <string name="about3">
+            We are also big on getting young people involved
+        in the process of creating sexual and reproductive health services and use this as a medium
+        to get young people to talk about what they need and why they think it should be provided.
+            Our stories and articles are by young people and for young people.
+    </string>
+
+    <string name="tombey">tombey</string>
+    <string name="counselling">Psychotherapy theories provide a framework for therapists and counselors to interpret a client’s behavior, thoughts, and feelings and help them navigate a client’s journey from diagnosis to post-treatment. Theoretical approaches are an understandably integral part of the therapeutic process. But with so many different methods out there, how do you know which counseling approach works best for you? Whether you’re a student learning about counseling theories or a client looking for the right therapist, the following detailed descriptions will give you a deeper understanding of each counseling method. These theories are integrated throughout the curriculum of and are built into a foundation grounded in the psychodynamic perspective.</string>
+    <string name="psychoanalysis_paragraph">Psychoanalysis or psychodynamic theory, also known as the “historical perspective,” has its roots with Sigmund Freud, who believed there were unconscious forces that drive behavior. The techniques he developed, such as free association (freely talking to the therapist about whatever comes up without censoring), dream analysis (examining dreams for important information about the unconscious), and transference (redirecting feelings about certain people in one’s life onto the therapist) are still used by psychoanalysts today. Counseling@Northwestern uses this theory to train counselors, and it is embedded throughout the counselor training process. In general, psychotherapists and counselors who use this approach direct much of their focus and energy on analyzing past relationships and, in particular, traumatic childhood experiences in relation to an individual’s current life. The belief is that by revealing and bringing these issues to the surface, treatment and healing can occur. This theory is highly researched, and as the field of neuroscience advances, counselors are finding how psychodynamic theory can actually positively affect a client’s brain. Psychodynamic theory can be more time intensive in comparison to some short-term theories because it involves changing deeply ingrained behaviors and requires significant work on understanding one’s self.</string>
+    <string name="behavioural_theory">Behavioral theory is based on the belief that behavior is learned. Classic conditioning is one type of behavioral therapy that stems from early theorist Ivan Pavlov’s research. Pavlov executed a famous study using dogs, which focused on the effects of a learned response (e.g., a dog salivating when hearing a bell) through a stimulus (e.g., pairing the sound of a bell with food). B. F. Skinner developed another behavioral therapy approach, called operant conditioning. He believed in the power of rewards to increase the likelihood of a behavior and punishments to decrease the occurrence of a behavior. Behavioral therapists work on changing unwanted and destructive behaviors through behavior modification techniques such as positive or negative reinforcement.</string>
+    <string name="cognitive_theory">In the 1960s, psychotherapist Aaron Beck developed cognitive theory External link . This counseling theory focuses on how people’s thinking can change feelings and behaviors. Unlike psychodynamic theory, therapy based on cognitive theory is brief in nature and oriented toward problem solving. Cognitive therapists focus more on their client’s present situation and distorted thinking than on their past. Cognitive and behavioral therapy are often combined as one form of theory practiced by counselors and therapists. Cognitive behavioral therapy, or CBT, has been found in research External link to help with a number of mental illnesses including anxiety, personality, eating, and substance abuse disorders.</string>
+    <string name="humanistic_approach">Humanistic therapists care most about the present and helping their clients achieve their highest potential. Instead of energy spent on the past or on negative behaviors, humanists believe in the goodness of all people and emphasize a person’s self-growth and self-actualization. Humanistic theories include client-centered, gestalt, and existential therapies. Carl Rogers developed client-centered therapy, which focuses on the belief that clients control their own destinies. He believed that all therapists need to do is show their genuine care and interest. Gestalt therapists’ work focuses more on what’s going on in the moment versus what is being said in therapy. Existential therapists help clients find meaning in their lives by focusing on free will, self-determination, and responsibility.</string>
+    <string name="holistic_approach">Holistic and integrative therapy involves integrating various elements of different theories to the practice. In addition to traditional talk therapy, holistic therapy may include nontraditional therapies such as hypnotherapy or guided imagery. The key is to use the techniques and psychotherapy tools best suited for a particular client and problem. There are various therapies that counselors can choose to study, but the type of theory matters less than the success of the relationship between client and therapist. In the Counseling Tombey Master of Arts in Counseling Program, students are prepared to become self-reflective practitioners and learn to examine the factors that influence the client-therapist relationship to become successful counselors.</string>
+    <string name="psychoanalysis_psychodynamic_theory">PSYCHOANALYSIS/PSYCHODYNAMIC THEORY</string>
+    <string name="behavioral_theory">BEHAVIORAL THEORY</string>
+    <string name="cognitive">COGNITIVE THEORY</string>
+    <string name="humanistic">HUMANISTIC APPROACH</string>
+    <string name="holistic_integrative_therapy">HOLISTIC/INTEGRATIVE THERAPY</string>
+    <string name="todo">TODO</string>
+    <string name="writer1">All stories, articles and blog posts on TOMBEY are written primarily by young people and
+        that’s what makes this website real. </string>
+    <string name="writer2">Do you want to write compelling articles and stories that provide young people like yourself
+        the needed information about their sexual and reproductive health? </string>
+    <string name="writer3">Do you have a story you would like to share that could change the lives of other young people? </string>
+    <string name="writer4">Then write to us today!</string>
+    <string name="be_a_writer">Be a Writer</string>
+    <string name="tombey_logo">Tombey Logo</string>
+    <string name="suggest_a_center">Suggest a Center</string>
+    <string name="email_address">Email Address</string>
+    <string name="tell_us_more_about_the_center">Tell us more about the center</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="your_name">Your Name</string>
+    <string name="have_you_been_to_a_center_or_do_you_know_a_center_that_is_currently_not_listed_please_kindly_fill_the_form_to_tell_us_more_about_the_center">Have you been to a center or do you know a center that is currently not listed. Please, kindly fill the form to tell us more about the center</string>
+    <string name="contraception">Contraception aims to prevent pregnancy. A woman can get pregnant if a man\'s sperm reaches one of her eggs (ova).
+        Contraception tries to stop this happening by keeping the egg and sperm apart, or by stopping egg production, or by stopping the combined sperm and egg (fertilized egg) attaching to the lining of the womb.
+        Barrier methods such as condoms are a form of contraception that helps to protect against sexually transmitted infections (STIs) and pregnancy. You should use condoms to protect both your sexual health and that of your partner, no matter what the other contraception you're using to prevent pregnancy.</string>
+    <string name="contraception_types">PERMANENT CONTRACEPTION</string>
+    <string name="contraception_types_t">There are two permanent methods of contraception:</string>
+    <string name="female_contraceptive">Female sterilization occurs with a surgery/minor operation that involves blocking or
+        sealing the fallopian tubes, which link the ovaries to the womb (uterus). This prevents the woman’s eggs from reaching
+        sperm and becoming fertilized. Eggs will still be released from the ovaries as normal, but they will be absorbed
+        naturally into the woman\'s body.
+        Female sterilization works by preventing eggs from traveling down the fallopian tubes.
+        This means a woman\'s eggs cannot meet the sperm, and fertilization cannot happen.</string>
+</resources>

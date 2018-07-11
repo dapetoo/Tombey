@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="550dp"
+            android:layout_height="220dp"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
+            android:layout_gravity="center"
+            android:src="@drawable/youth_convo"
+            android:contentDescription="youth convo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start a conversation about youth and adolescent sexual health with your friends, parents or community. Get informed and learn how you can take action on sexual health issues. Pick your area of interest and you can decide what action you would like to take. We would love to hear from you if you decide to ‘Do Something!’
+
+Choose a topic of interest [HIV/AIDS, Contraception, sexual abuse, violence, adolescent pregnancy, STDs] Choose an action [Take a pledge, Support SRH rights, Hold a Hub]"/>
+
+
+    </LinearLayout>
+</ScrollView>
